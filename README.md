@@ -48,7 +48,9 @@ Vulnerability #1: Insecure Direct Object Reference
 Noticed that certain employees should not be accessed by users. However, if the ID value was incremented to 11 (a page that was not clickable by users), they could access sensitive employee data that they should not have had access to .
 
 Vulnerability #2: Cross-site request forgery
+<img src="https://github.com/sk8wt/CodePathWeek8/blob/master/RedCSRF.gif" width="800">
 
+When a CSRF 
 
 ## Notes
 
