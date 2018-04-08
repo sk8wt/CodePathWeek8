@@ -50,7 +50,7 @@ Noticed that certain employees should not be accessed by users. However, if the 
 Vulnerability #2: Cross-site request forgery
 <img src="https://github.com/sk8wt/CodePathWeek8/blob/master/RedCSRF.gif" width="800">
 
-When a CSRF 
+This attack allowed me to change the name of users in the system by changing the CSRF token. 
 
 ## Notes
 
